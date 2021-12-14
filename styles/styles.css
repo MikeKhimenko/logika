@@ -19,7 +19,7 @@ body{
     float:right;
 }
 .page1, .page_flex{
-    background: url('resources/bg1.png') no-repeat center top;
+    background: url('../resources/bg1.png') no-repeat center top;
     background-size: cover;
     height:896px;
     font-family: 'Montserrat Bold', sans-serif;
